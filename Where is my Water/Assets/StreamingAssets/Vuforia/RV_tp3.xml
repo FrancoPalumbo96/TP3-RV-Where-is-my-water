@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QR2" size="1.000000 1.000000" />
+    <ImageTarget name="Qr1" size="0.100000 0.100000" />
+    <ImageTarget name="Ruben" size="0.100000 0.133333" />
+    <ImageTarget name="Numero3" size="1.000000 1.265385" />
+    <ImageTarget name="Numero2" size="1.000000 1.261539" />
+    <ImageTarget name="Numero1" size="1.000000 1.253846" />
+    <ImageTarget name="Dishonored_Logo" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
